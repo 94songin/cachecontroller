@@ -1,0 +1,76 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/intelFPGA_lite/19.1/cachecontroller/simulation/modelsim
+vcache
+Z1 !s110 1657580795
+!i10b 1
+!s100 DGe5RYH59jbnPhU=P8d]X1
+IcK3?HBllcfeVKg4OE6^[[1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1657577695
+8C:/intelFPGA_lite/19.1/cachecontroller/cache.v
+FC:/intelFPGA_lite/19.1/cachecontroller/cache.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1657580795.000000
+!s107 C:/intelFPGA_lite/19.1/cachecontroller/cache.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/intelFPGA_lite/19.1/cachecontroller|C:/intelFPGA_lite/19.1/cachecontroller/cache.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+C:/intelFPGA_lite/19.1/cachecontroller
+Z7 tCvgOpt 0
+vsram
+R1
+!i10b 1
+!s100 I0SOLVCS^P6P@Vag^cNJj1
+I]XIalzGIkc?I^<;9[S?X02
+R2
+R0
+w1657542345
+8C:/intelFPGA_lite/19.1/cachecontroller/sram.v
+FC:/intelFPGA_lite/19.1/cachecontroller/sram.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/intelFPGA_lite/19.1/cachecontroller/sram.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/intelFPGA_lite/19.1/cachecontroller|C:/intelFPGA_lite/19.1/cachecontroller/sram.v|
+!i113 1
+R5
+R6
+R7
+vtb_cache
+R1
+!i10b 1
+!s100 O:HMGHL8:7>VldX9I>Wf;0
+Ia4>=>hHWCo_8>]l8=VFmQ1
+R2
+R0
+w1657580520
+8C:/intelFPGA_lite/19.1/cachecontroller/tb_cache.v
+FC:/intelFPGA_lite/19.1/cachecontroller/tb_cache.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/intelFPGA_lite/19.1/cachecontroller/tb_cache.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/intelFPGA_lite/19.1/cachecontroller|C:/intelFPGA_lite/19.1/cachecontroller/tb_cache.v|
+!i113 1
+R5
+R6
+R7
